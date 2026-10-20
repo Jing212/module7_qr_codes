@@ -214,6 +214,14 @@ docker run -it --rm <image-name>
 
 ---
 
+## My Github Repository
+
+![GitHub Repository](/qr_codes/QRCode_20261020015639.png "My QR Code Link")
+
+## My DockerHub Image
+
+![DockerHub Image](/qr_codes/QRCode_20261019215711.png "My QR Code Link")
+
 # 📝 7. Submission Instructions
 
 After finishing your work:
